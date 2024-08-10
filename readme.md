@@ -4,4 +4,5 @@ Simple CLI prime factorization tool I made while playing Beltmatic, beaause I go
 # Ussage 
 
 Just insert number as a cli argument:
+
 `python main.py <number>`
